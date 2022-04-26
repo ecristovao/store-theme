@@ -3,6 +3,9 @@
     "blocks": [
       //"image#name",
       //"rich-text#name",
+	 "countdown.title", 
+	  "countdown",
+
       "list-context.image-list#demo",
       /* You can make references to blocks defined in other files.
        * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
@@ -16,7 +19,6 @@
       "newsletter"
     ]
   },
-
 
   
 

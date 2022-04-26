@@ -6,13 +6,17 @@
     "styles": "2.x",
     "store": "0.x",
     "sitemap": "0.x",
-    "docs": "0.x"
+    "docs": "0.x",
+    "messages": "1.x"
   },
   "mustUpdateAt": "2018-09-05",
   "scripts": {
     "postreleasy": "vtex publish --verbose"
   },
   "dependencies": {
+    "vtex.countdown": "0.x",
+    "vtex.search-graphql": "0.x",
+    "vtex.product-context": "0.x",
     "vtex.store": "2.x",
     "vtex.store-header": "2.x",
     "vtex.product-summary": "2.x",
